@@ -1,1 +1,0 @@
-cmd_/home/fuji/Desktop/OS_KernelModule_HW/hello.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/fuji/Desktop/OS_KernelModule_HW/hello.ko /home/fuji/Desktop/OS_KernelModule_HW/hello.o /home/fuji/Desktop/OS_KernelModule_HW/hello.mod.o
